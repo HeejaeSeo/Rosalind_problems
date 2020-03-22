@@ -34,6 +34,7 @@ for i in strand_rev :
     else :
         strand_new += 'G'
 
-## 04. Print New Strand
+	
+## 04. Print the New Strand
 
 print(strand_new)
