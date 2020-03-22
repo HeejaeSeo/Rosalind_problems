@@ -16,6 +16,6 @@ for s in fr :
 	fr  = fr.replace("T", "U")
 
 
-### 03. Print the Converted String
+### 03. Print the Result
 
 print(fr)
