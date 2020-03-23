@@ -1,4 +1,6 @@
-### 03. Complementing a Strand of DNA
+# 03. Complementing a Strand of DNA
+``` python
+
 ## Complementing a Strand of DNA
 
 # Date : 19.06.13 (Thu)
@@ -38,3 +40,4 @@ for i in strand_rev :
 ## 04. Print the New Strand
 
 print(strand_new)
+```
