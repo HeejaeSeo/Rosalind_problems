@@ -14,7 +14,7 @@ cnt_c = cnt_g = 0
 
 ## 01. Read File
 
-with open('rosalind_gc.txt', 'r') as f :
+with open('rosalind_gc.txt') as f :
     for s in f :      
         if s.startswith(">") :
             data[3] = data[1] / data[2] * 100
