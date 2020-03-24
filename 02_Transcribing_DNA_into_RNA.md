@@ -1,4 +1,5 @@
-### 02. Transcribing DNA into RNA
+# 02. Transcribing DNA into RNA
+```python
 ## The Second Nucleic Acid
 
 # Date : 19.06.12 (Wed)
@@ -19,3 +20,4 @@ for s in fr :
 ### 03. Print the Result
 
 print(fr)
+```
