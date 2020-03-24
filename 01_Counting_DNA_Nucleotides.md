@@ -1,5 +1,6 @@
-### 01. Counting DNA Nucleotides
-## A rapid Introduction to Molecular Biology
+# 01. Counting DNA Nucleotides
+```python
+## A Rapid Introduction to Molecular Biology
 
 # Date : 19.06.12 (Wed)
 
@@ -21,3 +22,4 @@ cnt_t = fr.count("T")
 ## 03. Print the Number of Bases
 
 print("%d %d %d %d" %(cnt_a, cnt_c, cnt_g, cnt_t))
+```
