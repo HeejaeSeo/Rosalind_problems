@@ -1,6 +1,6 @@
 # 01. Counting DNA Nucleotides
 ```python
-## A Rapid Introduction to Molecular Biology
+## A rapid Introduction to Molecular Biology
 
 # Date : 19.06.12 (Wed)
 
