@@ -41,3 +41,5 @@ for i in strand_rev :
 
 print(strand_new)
 ```
+## Link
+> [Complementing a Strand of DNA](http://rosalind.info/problems/revc/)

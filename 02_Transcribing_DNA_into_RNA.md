@@ -21,3 +21,5 @@ for s in fr :
 
 print(fr)
 ```
+## Link
+> [Transcribing DNA into RNA](http://rosalind.infl/problems/rna/)

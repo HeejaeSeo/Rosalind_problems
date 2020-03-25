@@ -23,3 +23,5 @@ cnt_t = fr.count("T")
 
 print("%d %d %d %d" %(cnt_a, cnt_c, cnt_g, cnt_t))
 ```
+## Link
+> [Counting DNA Nucleotides](http://rosalind.info/problems/dna/)

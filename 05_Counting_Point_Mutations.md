@@ -1,4 +1,3 @@
-
 # 05. Counting Point Mutations
 ```python
 
