@@ -46,3 +46,5 @@ if data[3] > best[1] :
 print(best[0])
 print(best[1])
 ```
+## Link
+> [Computing GC Content](http://rosalind.info/problems/gc/)
