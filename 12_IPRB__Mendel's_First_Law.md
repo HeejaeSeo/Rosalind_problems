@@ -26,5 +26,5 @@ result = float(nume / deno)
 
 print(result)
 ```
-# Link
+## Link
 > [Mendel's First Law](http://rosalind.info/problems/iprb/)
