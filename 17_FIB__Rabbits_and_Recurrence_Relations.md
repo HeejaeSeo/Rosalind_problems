@@ -28,7 +28,7 @@ with open("rosalind_fib.txt") as f :
 	n, k = map(int, f.readline().strip().split(" "))
 
 
-### 03. Print the Rabbit Pairs
+## 03. Print the Rabbit Pairs
 
 print(fibo_dyna(n, k))
 ```
