@@ -5,15 +5,14 @@
 # Date : 20.03.26 (Thu)
 
 ## 00. Set Variables
+
 result = 1
 
-## 01. Read File
-with open("rosalind_pper.txt") as f :
-	fr = f.readline()
-	fr = fr.replace("\n", "")
 
-	n = int(fr.split(" ")[0])
-	k = int(fr.split(" ")[1])
+## 01. Read File
+
+with open("rosalind_pper.txt") as f :
+	n, k = map(int, f.read().strip().split(" "))
 	
 
 ## 02. Permutations
